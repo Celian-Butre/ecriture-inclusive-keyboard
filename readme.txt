@@ -11,6 +11,8 @@ singular thing that will appear --> plural thing that will appear --> the letter
 
 For Installation :
 
+    open backgroundRunner.py and edit the PATH variable to be the path to ecriture-inclusiveV2.py
+
     Bash
     pip install pynput
 
@@ -18,8 +20,10 @@ For Installation :
     open startupApplications
     Add
     name : what you want
-    Command : python3 path/to/folder/ecriture-inclusiveV2.py
+    Command : python3 path/to/folder/ecriture-inclusive-code/backgroundRunner.py
     comment : what you want
+
+    (the backgroundRunner relaunches the code every hour because the point median stops being outputted after a certain time ¯\_(ツ)_/¯)
 
     TADA
 
