@@ -1,4 +1,4 @@
-PATH = "/home/startupApps/ecriture-inclusive-code/ecriture-inclusiveV2.py" #Replace with your path
+PATH = "ecriture-inclusiveV2.py" #Replace with your path or keep this one if you leave both in the same folder
 
 import subprocess
 import time

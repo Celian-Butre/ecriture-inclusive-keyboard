@@ -1,17 +1,25 @@
+# Écriture Inclusive Keyboard
+
+
 If you have any questions, feel free to email me at cryptoCookie@butre.fr
-Disclaimer : this keyboard was built on Ubuntu 20.04, it is pretty okay but it isn't great, but it's still pretty cool
+
+## Disclaimer
+This keyboard was built on Ubuntu 20.04, it is pretty okay but it isn't great, but it's still pretty cool\
 My keyboard is an English (US, intl, with dead keys) keyboard but it should work with other keyboards
 
 You will be partially sacrificing your right shift key
 
-refer to list.txt for the shortcuts (most are logical, some are by lack of space) to change these change the lists at the start of the python script
-the format is
-singular thing that will appear --> plural thing that will appear --> the letter to make it appear (for plural do s and then that letter)
+
+## Documentation ?
+Refer to list.txt for the shortcuts (most are logical, some are by lack of space) \
+The format is
+singular thing that will appear --> plural thing that will appear --> the letter to make it appear (for plural do s and then that letter)\
+To change the shortcuts : change the lists at the start of the python script ecriture-inclusiveV2.py.
 
 
-For Installation :
+## For Installation
 
-    open backgroundRunner.py and edit the PATH variable to be the path to ecriture-inclusiveV2.py
+    open backgroundRunner.py and edit the PATH variable to be the path to ecriture-inclusiveV2.py (by default it's correct if you keep both files in the same folder)
 
     Bash
     pip install pynput
@@ -27,7 +35,7 @@ For Installation :
 
     TADA
 
-For usage :
+## For usage
 
     press right shift to start ecriture inclusive mode
     pressing right shift again will place a point median and leave ecriture inclusive mode
