@@ -4,7 +4,7 @@
 If you have any questions, feel free to email me at cryptoCookie@butre.fr
 
 ## Disclaimer
-This keyboard was built on Ubuntu 20.04, it is pretty okay but it isn't great, but it's still pretty cool\
+This keyboard was built on Ubuntu 20.04 (I've updated it for Ubuntu 24.04), it is pretty okay but it isn't great, but it's still pretty cool\
 My keyboard is an English (US, intl, with dead keys) keyboard but it should work with other keyboards
 
 You will be partially sacrificing your right shift key
